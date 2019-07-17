@@ -247,7 +247,7 @@ websites:
     - name: Trainline
       url: https://www.trainline.eu
       twitter: thetrainline
-      facebook: trainline.eu
+      facebook: trainline.us
       img: trainline.png
       tfa: No
 
